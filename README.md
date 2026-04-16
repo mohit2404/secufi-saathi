@@ -85,12 +85,5 @@ analyzer (Tavily)        │
 
 ---
 
-## Deployment (Render)
+**Deployed URL:** `https://secufi-saathi-ploe.onrender.com`
 
-1. Push repo to GitHub
-2. Create a new **Web Service** on [render.com](https://render.com)
-3. Set build command: `npm install`
-4. Set start command: `npm start`
-5. Add environment variables: `GROQ_API_KEY`, `TAVILY_API_KEY`
-
-Free tier is sufficient for demo purposes.

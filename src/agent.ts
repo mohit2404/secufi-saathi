@@ -45,7 +45,7 @@ function getGroq(): Groq {
   return _groq;
 }
 
-const MODEL = "llama-3.3-70b-versatile";
+const MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"; // fallback while TPD limit resets on llama-3.3-70b-versatile
 
 // ── Conversation state ────────────────────────────────────────────────────────
 // In-memory store: sessionId → message history
