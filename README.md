@@ -4,7 +4,7 @@ A conversational AI agent that helps Indian families understand their financial 
 
 ## 🚀 Live Demo
 
-**Deployed URL:** `[REPLACE WITH RENDER/RAILWAY URL AFTER DEPLOY]`
+**Deployed URL:** `https://secufi-saathi-ploe.onrender.com`
 
 ---
 
@@ -84,6 +84,3 @@ analyzer (Tavily)        │
 - **Safety guardrails** — Never recommends specific insurers, never gives tax/legal advice
 
 ---
-
-**Deployed URL:** `https://secufi-saathi-ploe.onrender.com`
-
